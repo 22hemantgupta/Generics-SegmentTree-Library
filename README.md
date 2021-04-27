@@ -1,7 +1,7 @@
 # Generics-SegmentTree-Library
 #Segment Tree Library in C++
 
-##Author : Hemant Gupta
+#Author : Hemant Gupta
 
      ******USAGE Example******    
 
